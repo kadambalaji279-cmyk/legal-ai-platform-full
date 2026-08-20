@@ -1,0 +1,17 @@
+backend/target/
+backend/.idea/
+backend/uploads/*
+
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+.env
+.env.*
+!.env.example
+
+.idea/
+.vscode/
+
+.DS_Store
+Thumbs.db
